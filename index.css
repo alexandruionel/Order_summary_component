@@ -1,3 +1,31 @@
 
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
+
+
+.general {
+    text-align: center;
+    border: 1px solid black;
+    margin: 0;
+    background-color: lightblue;
+    
+}
+
+.price{
+    text-align: center;
+    border: 1px solid black;
+    width:150;
+    background-color: green;
+}
+.payment{
+    text-align: center;
+    border: 1px solid black;
+    width:150;
+    background-color: green;
+}
+.cancel{
+    text-align: center;
+    border: 1px solid black;
+    width:150;
+    background-color: green;
+}
